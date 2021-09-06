@@ -1,2 +1,2 @@
 # Wallpapers
-my wallpapers lol
+these are my wallpapers lol. i needa sloppy toppy asap
