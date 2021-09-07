@@ -1,2 +1,5 @@
 # Wallpapers
-these are my wallpapers lol. i needa sloppy toppy asap
+for windows just download the zip. for linux you can do:
+```
+git clone https://github.com/GNUAaryn/Wallpapers
+```
